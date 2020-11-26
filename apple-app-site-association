@@ -1,9 +1,0 @@
-{
-	"applinks": {
-		"apps": [],
-		"details": [{
-			"appID": "E4U75NDT9W.com.js.kid",
-			"paths": ["*", "/", "/*"]
-		}]
-	}
-}
