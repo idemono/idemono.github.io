@@ -2,8 +2,8 @@
 	"applinks": {
 		"apps": [],
 		"details": [{
-			"appID": "E4U75NDT9W.com.js.kid",
-			"paths": ["*"]
+			"appID": "E4U75NDT9W.TianBing.ShareTest",
+			"paths": ["/watch/*"]
 		}]
 	}
 }
